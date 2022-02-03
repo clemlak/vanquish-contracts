@@ -55,6 +55,17 @@ PvP is the other big chunk of gameplay, but the whole thing is pretty straightfo
 
 Conquering the spawn land of an opponent will vanquish him and will grant you their loot.
 
-## Deployments
+## 🕹 How to play
 
-Rinkeby: [0xCc0756bCB6822B143Ff47c4923687083d27De54c](https://rinkeby.etherscan.io/address/0xcc0756bcb6822b143ff47c4923687083d27de54c)
+Since the game doesn't have an interface (yet), the easiest way to try it out is directly via [Etherscan](https://rinkeby.etherscan.io/address/0x594d80FCeCc11eed63d80749E03A7109e383B8E7#writeContract):
+- Start by calling the `spawn` function to create your base. You can check if the land you want is available by using the `getLand` function (returned value should be `0`)
+- Then expand your empire using `claim`, you simply have to pass the coordinates of the land you want to claim along with the coordinates of a bordering land that you own
+- If you are lucky you'll collect resources, don't forget to spend them to `buy` units!
+- Feel free to `move` your units depending on your strategy: are you going to reinforce your base or push your borders?
+- If you are feeling bellicose, you might want to `attack` your opponents, but be carefully if they have allies...
+
+## 🚀 Deployments
+
+| Network | Address |
+|---|---|
+| Rinkeby | [0x594d80FCeCc11eed63d80749E03A7109e383B8E7](https://rinkeby.etherscan.io/address/0x594d80FCeCc11eed63d80749E03A7109e383B8E7) |
