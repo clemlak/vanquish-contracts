@@ -34,13 +34,13 @@ Needless to say, but spawning can only happen once.
 
 ### 🚩 Claim
 
-Claiming is one of the biggest part of the gameplay: it consists in taking ownership of a land and its resources. Most of the lands will be empty, but some of them will contain resources that can be used later to hire units (soldiers).
+Claiming is one of the biggest part of the gameplay: it consists in taking ownership of a land and its resources. Most of the lands will be empty, but some of them will contain resources that can be used later to buy units (soldiers).
 
 Claiming a land is free, the only requirement is that the new land is directly next to a land you currently own.
 
 ### 💎 Buy
 
-Some lands contain resources that you can collect and use to buy units. You can buy as much units as you want as the same time, and they will be delivered directly in to your spawn land.
+Some lands contain resources that you can collect and use to buy units. You can buy as much units as you want at the same time, and they will be delivered directly to your spawn land.
 
 ### 🚍 Move
 
