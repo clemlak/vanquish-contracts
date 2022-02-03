@@ -44,7 +44,7 @@ Some lands contain resources that you can collect and use to buy units. You can 
 
 ### 🚍 Move
 
-Units can be moved from a land to another freely, while both lands are side by side.
+Units can be moved from a land to another freely, but once again only if both lands are side by side.
 
 ### ⚔️ Attack
 
