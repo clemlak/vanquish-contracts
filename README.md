@@ -62,7 +62,7 @@ Since the game doesn't have an interface (yet), the easiest way to try it out is
 - Then expand your empire using `claim`, you simply have to pass the coordinates of the land you want to claim along with the coordinates of a bordering land that you own
 - If you are lucky you'll collect resources, don't forget to spend them to `buy` units!
 - Feel free to `move` your units depending on your strategy: are you going to reinforce your base or push your borders?
-- If you are feeling bellicose, you might want to `attack` your opponents, but be carefully if they have allies...
+- If you are feeling bellicose, you might want to `attack` your opponents, but be careful if they have allies...
 
 ## 🚀 Deployments
 
